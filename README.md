@@ -1,3 +1,3 @@
-# udchat
-simple messaging service for web, Android, Desktop.
+# udichat
+simple messaging service for Android with react native
 
